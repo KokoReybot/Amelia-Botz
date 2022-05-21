@@ -1,28 +1,28 @@
 {    
      "Version": "3.5.0",
-     "namalu" : "DITTAZ",
-     "nomerlu": "6285156137901",
-     "namabot": "Amelia Botz",
-     "nomerbot": "6285859108597",
+     "namalu" : "KOKO•REY",
+     "nomerlu": "6285232604817",
+     "namabot": "KOKO Botz",
+     "nomerbot": "6285771052661",
      "gender" : "Female",
-     "copyright" : "Extream",
-     "namaDocument": "Amelia Botz",
-     "joinGcExtream": true,
+     "copyright" : "® KOKO•REY",
+     "namaDocument": "KoKoRey Botz",
+     "joinGcExtream": false,
 
-     "publik": true,
+     "publik": false,
      "forwarding": false,
-     "Loading": false,
+     "Loading": true,
      "antitroli" : false,
      
      "autovn" : false,
      "autosticker" : false,
      "autorespon" : false,
      "autotyping" : false,
-     "autoread" : true,
+     "autoread" : false,
      "autoblockcmd" : false, 
-     "autobio" : true,
+     "autobio" : false,
      "autoLevel" : true,
-     "AutoClearChat": true,
+     "AutoClearChat": false,
      "totalForward" : 1000000,
      "explain": false,
      "jumlahTroli": 2022,
@@ -47,19 +47,19 @@
      "setPayment": {
      "Shopee" : "085156137901",
      "Gopay" : "085156137901",
-     "Dana" : "085156137901",
+     "Dana" : "085232604817",
      "Ovo" : "085156137901"
      },
      
      "setPrefix": {
-     "prefix": "!",
+     "prefix": ".",
      "multi": true,
      "onepref" : false,
      "nopref" : false
      },
                                                                                                                                                                                                                                    
      "setWelcome": {
-     "autoWelcome": false,
+     "autoWelcome": true,
      "welcomeType": "type3",
      "background": "https://tinyurl.com/yxvl8h3a"
      },    
